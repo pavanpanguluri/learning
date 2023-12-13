@@ -120,3 +120,4 @@ var strongPasswordChecker = function (password) {
   console.log(strongPasswordChecker(pass2));
   console.log(strongPasswordChecker(pass3));
   console.log(strongPasswordChecker(pass4));
+  console.log(strongPasswordChecker(pass5));
